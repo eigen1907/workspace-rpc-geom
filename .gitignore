@@ -1,4 +1,5 @@
 *.log
+*.gif
 *.png
 *.jpg
 #*.root
