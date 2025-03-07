@@ -3,4 +3,6 @@
 *.png
 *.jpg
 *.DS_Store
+*.tgz
+*.tar.gz
 #*.root
