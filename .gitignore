@@ -5,4 +5,4 @@
 *.DS_Store
 *.tgz
 *.tar.gz
-#*.root
+*.root
